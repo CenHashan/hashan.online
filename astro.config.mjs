@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://cenhashan.github.io',
+    site: 'https://cenhashan.github.io/hashan.online',
     base: '/hashan.online',
 });
